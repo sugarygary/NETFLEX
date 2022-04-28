@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="338d90a3-a0fd-474d-842b-1c5ec1e59ee0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28MUgxMflbqG7FnXAap1GeC5fQI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="17" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="netflexandchill.NETFLEXANDCHILL" />
+      <module name="NETFLEXANDCHILL" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="All methods of a class (within hierarchy)" created="1651027858505" text="$method$" recursive="true" caseInsensitive="true" type="JAVA" pattern_context="default" scope_type="NAMED" scope_descriptor="Selected files" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="method" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="All methods of a class (within hierarchy)" created="1651027787542" text="$a$.$method$($arg$)" recursive="true" caseInsensitive="true" type="JAVA" pattern_context="default" scope_type="DIRECTORY" scope_descriptor="*C:\Users\GARY\OneDrive\Documents\iSTTS\Semester 2\PRAKTIKUM PBO\M6_221116940\NETFLEXANDCHILL\src\netflexandchill" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </searchConfiguration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="338d90a3-a0fd-474d-842b-1c5ec1e59ee0" name="Changes" comment="" />
+      <created>1651026063667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651026063667</updated>
+    </task>
+    <servers />
+  </component>
+</project>

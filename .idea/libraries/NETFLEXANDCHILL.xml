@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NETFLEXANDCHILL">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/NETFLEXANDCHILL.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
